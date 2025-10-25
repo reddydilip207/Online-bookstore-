@@ -289,4 +289,4 @@ GROUP BY b.book_id,b.title,b.stock;
 ## Conclusion
 
 - This project demonstrates how SQL can be used to manage and analyze data for an online bookstore. By building a relational database with Books, Customers, and Orders tables, we were able to explore book inventory, customer behavior, and sales trends effectively.
--Overall, this project highlights practical SQL skills for real-world business scenarios and provides a framework to derive meaningful insights from bookstore data.
+- Overall, this project highlights practical SQL skills for real-world business scenarios and provides a framework to derive meaningful insights from bookstore data.
