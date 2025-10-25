@@ -27,13 +27,6 @@ Project Objectives
 7. **Answer Business Questions with SQL**: Use queries to extract actionable insights that could support business decisions.
 ## Project Structure
 
-**Schema Diagram**:
-
-```sql
-<img width="986" height="423" alt="Screenshot 2025-10-25 133938" src="https://github.com/user-attachments/assets/78f96515-74b1-4864-8dc8-d51b2f0d4cea" />
-
-```
-
 
 ### 1. Database Setup
 
@@ -273,22 +266,25 @@ GROUP BY b.book_id,b.title,b.stock;
 ## Reports
 
 - **Book Inventory Report**:
-- 1. Summarizes the total stock of books by genre and author.
-- 2. Highlights low-stock books that may need restocking.
+- Summarizes the total stock of books by genre and author.
+- Highlights low-stock books that may need restocking.
      
-- **Sales & Revenue Report**: Shows total sales and revenue per genre, author, and month. Identifies high-value orders and peak sales periods.
+- **Sales & Revenue Report**:
+- Shows total sales and revenue per genre, author, and month.
+- Identifies high-value orders and peak sales periods.
+- 
 - **Customer Insights Report**:
-- 1. Lists top-spending customers and frequent buyers.
-- 2. Analyzes customer locations and spending patterns.
+- Lists top-spending customers and frequent buyers.
+- Analyzes customer locations and spending patterns.
      
 - **Order Analysis Report**:
-- 1. Tracks orders by quantity and total amount.
-- 2. Identifies most frequently purchased books and popular genres.
+- Tracks orders by quantity and total amount.
+- Identifies most frequently purchased books and popular genres.
      
 - **Advanced Analytics Report**:
-- 1. Calculates remaining stock after fulfilling orders.
-- 2. Provides genre-wise and author-wise performance metrics.
-- 3. Highlights trends to support marketing and inventory decisions.
+- Calculates remaining stock after fulfilling orders.
+- Provides genre-wise and author-wise performance metrics.
+- Highlights trends to support marketing and inventory decisions.
 
 ## Conclusion
 
