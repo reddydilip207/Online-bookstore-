@@ -265,26 +265,26 @@ GROUP BY b.book_id,b.title,b.stock;
 
 ## Reports
 
-- **Book Inventory Report**:
--1 Summarizes the total stock of books by genre and author.
--2 Highlights low-stock books that may need restocking.
+1. **Book Inventory Report**:
+- Summarizes the total stock of books by genre and author.
+- Highlights low-stock books that may need restocking.
      
-- **Sales & Revenue Report**:
--1 Shows total sales and revenue per genre, author, and month.
--2 Identifies high-value orders and peak sales periods.
+2. **Sales & Revenue Report**:
+- Shows total sales and revenue per genre, author, and month.
+- Identifies high-value orders and peak sales periods.
 - 
-- **Customer Insights Report**:
--1 Lists top-spending customers and frequent buyers.
--2 Analyzes customer locations and spending patterns.
+3. **Customer Insights Report**:
+- Lists top-spending customers and frequent buyers.
+- Analyzes customer locations and spending patterns.
      
-- **Order Analysis Report**:
--1 Tracks orders by quantity and total amount.
--2 Identifies most frequently purchased books and popular genres.
+4. **Order Analysis Report**:
+- Tracks orders by quantity and total amount.
+- Identifies most frequently purchased books and popular genres.
      
-- **Advanced Analytics Report**:
--1 Calculates remaining stock after fulfilling orders.
--2 Provides genre-wise and author-wise performance metrics.
--3 Highlights trends to support marketing and inventory decisions.
+5. **Advanced Analytics Report**:
+- Calculates remaining stock after fulfilling orders.
+- Provides genre-wise and author-wise performance metrics.
+- Highlights trends to support marketing and inventory decisions.
 
 ## Conclusion
 
